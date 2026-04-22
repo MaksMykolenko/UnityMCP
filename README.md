@@ -227,4 +227,3 @@ UnityMCP/
 
 ---
 
-*Inspired by [blender-mcp](https://github.com/ahujasid/blender-mcp) by Siddharth Ahuja.*
