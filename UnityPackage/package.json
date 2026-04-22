@@ -1,0 +1,16 @@
+{
+  "name": "com.unitymcp.bridge",
+  "version": "1.0.0",
+  "displayName": "UnityMCP Bridge",
+  "description": "Connects Unity Editor to AI assistants (Claude, Cursor, VS Code) via the Model Context Protocol (MCP). Enables natural language scene creation, object manipulation, and C# code execution through Roslyn compilation.",
+  "unity": "6000.0",
+  "author": {
+    "name": "UnityMCP",
+    "email": "unity-mcp@example.com",
+    "url": "https://github.com/yourusername/unity-mcp"
+  },
+  "keywords": ["mcp", "ai", "claude", "cursor", "editor", "automation"],
+  "dependencies": {
+    "com.unity.nuget.newtonsoft-json": "3.2.1"
+  }
+}
